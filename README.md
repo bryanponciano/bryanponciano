@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @bryanponciano
-- 👀 I’m interested in ingressar de uma vez por todas no mundo da programação, ainda sou iniciante mas creio que com foco e dedicação eu vou chegar muito longe
-- 🌱 I’m currently learning Java e PHP
-- 💞️ I’m looking to collaborate on projetos iniciantes e com isso ir mostrando meu potencial de degrau em degrau
-- 📫 How to reach me instagram @bry_ponci
-- 😄 Pronouns: Ele,ELa
-- ⚡ Fun fact: ...
+# Bryan Ponciano
+**Junior Web Developer**
 
-<!---
-bryanponciano/bryanponciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a web developer with a background in risk management and tracking, now fully dedicated to software engineering. I specialize in building structured, scalable web applications, business intelligence dashboards, and administrative tools.
+
+### Tech Stack
+*   **Backend & Database:** PHP, MySQL
+*   **Frontend:** JavaScript, HTML5, CSS3
+*   **Tools & Automation:** Git, Python, PowerShell, OS-level configuration
+
+### Current Focus
+*   Developing full-stack solutions and optimizing workflow applications.
+*   Expanding my knowledge in scalable application architecture and API integrations.
+*   Actively seeking Junior Web Developer opportunities, with plans to relocate to Spain in 2027.
+
+### Let's Connect
+*   **LinkedIn:** [linkedin.com/in/bryan-ponciano-7a4604289](https://www.linkedin.com/in/bryan-ponciano-7a4604289/)
+*   **Portfolio:** Feel free to explore my pinned repositories below to see my recent projects in action.
